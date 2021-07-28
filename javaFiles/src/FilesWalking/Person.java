@@ -24,7 +24,7 @@ public class Person {
 		this.lastName = lastName;
 	}
 	public int getAge() {
-		return age+200;
+		return age+200+100;
 	}
 	public void setAge(int age) {
 		this.age = age;
